@@ -1445,3 +1445,4 @@ main
 - [Promise Oghenevwefe] (https://github.com/Myspheet)
 - [Krzysztof Horodowicz](https://github.com/morfi1983)
 - [Elghali Benjelloun 🚀](https://github.com/xxEBxx)
+- [Melissa C. A. Fontenelle](https://github.com/mfontenelle)
